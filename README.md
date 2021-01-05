@@ -11,4 +11,4 @@ save the file topo-ibac-4.txt to the path ns3/ndnSIM/examples/topologies
 save the file forwarder.cpp, cencor-route-strategy.cpp, cencor-route-strategy.hpp to the path ns3/ndnSIM/NFD/daemon/fw  
 ## step2
 #### Normally, you can run scenarios directly and observe the packet forwarding through visualizer.
-cd ndnSIM/ns-3/src ./waf --run <scnario> --vis
+```cd ndnSIM/ns-3/src ./waf --run <scnario> --vis
